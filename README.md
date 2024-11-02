@@ -4,4 +4,4 @@ This is a simple Todo app built with React Native, utilizing expo-router, FlatLi
 
 ![Todo React Native App](./todos.jfif)
 
-Enjoy building and expanding this simple yet powerful Todo App!
+## Enjoy building and expanding this simple yet powerful Todo App!
